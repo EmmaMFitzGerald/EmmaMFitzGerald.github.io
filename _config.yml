@@ -1,11 +1,11 @@
 # Site settings
-author: Emma FitzGerald
-title: 
+author: Emma
+title: Emma's Blog
 header-img: img/home-bg.png
 email: emmamariafitzgerald@gmail.com
-copyright_name: Emma FitzGerald
+copyright_name: Emma
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Blogging through my Flatiron Journey
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  EmmaMFitzGerald
