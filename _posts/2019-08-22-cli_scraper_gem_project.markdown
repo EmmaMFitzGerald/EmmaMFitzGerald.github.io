@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "CLI Scraper Gem Project"
-date:       2019-08-22 20:28:26 +0000
+date:       2019-08-22 16:28:27 -0400
 permalink:  cli_scraper_gem_project
 ---
 
